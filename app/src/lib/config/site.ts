@@ -6,7 +6,7 @@ export const siteConfig: SiteConfig = {
   metaTitle: 'Template Studio | Modern SvelteKit Website Template',
   metaDescription:
     'A reusable SvelteKit template for landing pages, portfolios, and business showcase websites.',
-  footerText: '© 2026 Sibabalwe Sinyaniso. All rights reserved.',
+  footerText: '© 2026 Tita-Mbotho Studio. All rights reserved.',
   navigation: [
     { label: 'Features', href: '#features' },
     { label: 'About', href: '#about' },
